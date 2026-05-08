@@ -1,0 +1,85 @@
+{
+  "lung_opacity": [
+    "focal consolidation",
+    "mass lesion",
+    "airspace disease",
+    "opacities",
+    "atelectasis",
+    "scarring",
+    "perihilar opacities",
+    "parenchymal scarring",
+    "airspace",
+    "emphysema",
+    "pleural-parenchymal opacity",
+    "interstitial markings",
+    "granulomatous disease",
+    "opacity"
+  ],
+  "lung_lesion": [
+    "focal consolidation",
+    "mass lesion",
+    "nodular opacities",
+    "nodule",
+    "peripheral vascular disease"
+  ],
+  "atelectasis": [
+    "atelectasis",
+    "atelecta",
+    "left base atelectasis"
+  ],
+  "pleural_other": [
+    "fibrosis",
+    "pleural thickening"
+  ],
+  "cardiomegaly": [
+    "heart size normal",
+    "mild stable cardiomegaly",
+    "cardiomegaly",
+    "enlarged heart",
+    "heart size",
+    "stable cardiomegaly"
+  ],
+  "no_finding": [
+    "lungs are clear",
+    "aortic calcification",
+    "hypoinflation",
+    "deformity",
+    "emphysema",
+    "hyperexpansion",
+    "well-expanded and clear lungs",
+    "clear lungs",
+    "artery disease",
+    "low lung volumes",
+    "bronchitis",
+    "volume loss"
+  ],
+  "edema": [
+    "central vascular congestion",
+    "bronchovascular crowding",
+    "central vascular congestive changes"
+  ],
+  "pleural_effusion": [
+    "pleural fluid",
+    "effusion",
+    "pleural opacity",
+    "pleural effusions",
+    "effusions",
+    "pleural effusion"
+  ],
+  "pneumothorax": [
+    "pneumothorax"
+  ],
+  "enlarged_cardiomediastinum": [
+    "mediastinal contour",
+    "_mediastinum",
+    "mediastinal silhouette",
+    "mild nonspecific prominence of mediastinum"
+  ],
+  "pneumonia": [
+    "peribronchial pneumonia",
+    "pneumonia"
+  ],
+  "fracture": [
+    "fracture"
+  ]
+}
